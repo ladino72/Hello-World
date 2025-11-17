@@ -13,3 +13,4 @@ En este repositorio seguiré el tutorial oficial "Hello World" de GitHub y usar�
 Al crear este README entendí la importancia de documentar de manera clara y sencilla lo que hago.  
 No es solo un requisito técnico: es una forma de comunicar, de organizar mis ideas y de hacer que el proyecto sea accesible para cualquiera.  
 Este ejercicio me permitió aplicar lo aprendido en el curso y valorar cómo una buena documentación facilita el trabajo colaborativo y el aprendizaje continuo.
+
