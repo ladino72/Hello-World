@@ -1,5 +1,7 @@
 # Hello World – GitHub Tutorial
 
+Repository URL: https://github.com/ladino72/hello-world
+
 Este repositorio forma parte del ejercicio del curso "Inteligencia Artificial para uso en el aula de clase".  
 Su propósito es practicar el flujo básico de trabajo con GitHub: ramas, commits, pull requests y documentación.
 
